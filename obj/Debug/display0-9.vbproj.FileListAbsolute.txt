@@ -1,0 +1,11 @@
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\bin\Debug\display0-9.exe.config
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\bin\Debug\display0-9.exe
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\bin\Debug\display0-9.pdb
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\bin\Debug\display0-9.xml
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0-9.vbprojAssemblyReference.cache
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0_9.Form1.resources
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0_9.Resources.resources
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0-9.vbproj.GenerateResource.cache
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0-9.exe
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0-9.xml
+C:\Users\DGLB-Personal\source\repos\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\LED-Display-0---9-Like-7-Segment-using-VB.NET-master\obj\Debug\display0-9.pdb
